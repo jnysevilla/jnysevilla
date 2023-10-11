@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-My name is _Jenny_. My pronouns are SHE/HER.
+My name is **_Jenny_** (SHE/HER).
 
 👩‍💻 Aspiring Full Stack Developer | Code First Girls Degree Candidate
 
-🔨 Tech Stack: JavaScript, Python, SQL 
+I am currently on a journey with **Code First Girls** to become a proficient developer, exploring the realms of programming. I am passionate about coding, problem-solving, and continuous learning. Eager to contribute to open-source projects and collaborate with fellow developers. On a quest for knowledge and excited about what the future holds in the tech world. Let's connect, code, and create together!
 
-🌟 I am currently on a journey with **Code First Girls** to become a proficient developer, exploring the realms of JavaScript, Python, and SQL. 
 
-💡 I am passionate about coding, problem-solving, and continuous learning. Eager to contribute to open-source projects and collaborate with fellow developers.
+### 🔨 Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-📚 On a quest for knowledge and excited about what the future holds in the tech world. Let's connect, code, and create together! 🌐
+
 
 
 <!--
@@ -25,5 +30,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  ...
 -->
