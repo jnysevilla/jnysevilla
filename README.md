@@ -2,7 +2,7 @@
 
 My name is **_Jenny_** (SHE/HER).
 
-👩‍💻 Aspiring Full Stack Developer | Code First Girls Degree Autumn 2023 Student
+👩‍💻 Aspiring Full Stack Developer | Code First Girls Degree Autumn 2023 Alumni
 
 I am currently on a journey with **Code First Girls** to become a proficient developer, exploring the realms of programming. I am passionate about coding, problem-solving, and continuous learning. Eager to contribute to open-source projects and collaborate with fellow developers. On a quest for knowledge and excited about what the future holds in the tech world. Let's connect, code, and create together!
 
